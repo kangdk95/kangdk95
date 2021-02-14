@@ -1,10 +1,6 @@
-### Hi there 👋
+### DK's github 👋
 
 ---
-
-```
-Hi there
-```
 
 ## dong
 
